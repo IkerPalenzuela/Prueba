@@ -1,4 +1,4 @@
-# Nombre del proyecto desde el main a
+#Nombre del proyecto con el merge
 
 Una breve descripción de lo que hace tu proyecto.
 
