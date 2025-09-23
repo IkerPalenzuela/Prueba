@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Nombre del proyecto desde el main
 
 Una breve descripción de lo que hace tu proyecto.
 
